@@ -1,0 +1,18 @@
+locales:
+  apu:
+    name: Apurinã Keyboards
+    description: >-
+      Mobile OS keyboards for the Apurinã language from the Divvun group
+      at UiT.
+  en:
+    name: Apurinã Keyboards
+    description: >-
+      Mobile OS keyboards for the Apurinã language from the Divvun group
+      at UiT.
+  nb:
+    name: Apurinã tastatur
+    description: Mobiltastatur for Apurinã fra Divvun-gruppa.
+author: 'The Divvun Group, UiT Norgga árktalaš universitehta'
+copyright: (c) 2017 Divvun/Giellatekno/UiT
+email: feedback@divvun.no
+organisation: UiT Norgga árktalaš universitehta
