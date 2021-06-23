@@ -1,29 +1,29 @@
 displayNames:
-  'apu': Apurinã
+  apu: Apurinã
   en: Apurinã
 
 modes:
   android:
     default: |
-      á š e r t y u i o p ŋ
-      a s d f g h j k l đ ŧ
-         ž z č c v b n m
+      q w e ẽ r t y ỹ u i o p
+      a ã s d f g h j ũ ĩ k l
+         z x c v b n m õ ʼ
     shift: |
-      Á Š E R T Y U I O P Ŋ
-      A S D F G H J K L Đ Ŧ
-         Ž Z Č C V B N M
+      Q W E Ẽ R T Y Ỹ U I O P
+      A Ã S D F G H J Ũ Ĩ K L
+         Z X C V B N M Õ ʼ
   ios:
     default: |
-      á š e r t y u i o p ŋ
-      a s d f g h j k l đ ŧ
-      \s{shift:1.25} \s{spacer:0.25} ž z č c v b n m \s{spacer:0.25} \s{backspace:1.25}
+      q w e ẽ r t y ỹ u i o p
+      a ã s d f g h j ũ ĩ k l
+      \s{shift:1.25} \s{spacer:0.25} z x c v b n m õ ʼ \s{spacer:0.25} \s{backspace:1.25}
     shift: |
-      Á Š E R T Y U I O P Ŋ
-      A S D F G H J K L Đ Ŧ
-      \s{shift:1.25} \s{spacer:0.25} Ž Z Č C V B N M \s{spacer:0.25} \s{backspace:1.25}
+      Q W E Ẽ R T Y Ỹ U I O P
+      A Ã S D F G H J Ũ Ĩ K L
+      \s{shift:1.25} \s{spacer:0.25} Z X C V B N M Õ ʼ \s{spacer:0.25} \s{backspace:1.25}
     symbols-1: |
       1 2 3 4 5 6 7 8 9 0
-      - / : ; ( ) kr & @ "
+      - / : ; ( ) R$ & @ "
       \s{shiftSymbols} \s{spacer:0.25} . , ? ! ' \s{spacer:0.25} \s{backspace}
     symbols-2: |
       [ ] { } # % ^ * + =
@@ -695,8 +695,8 @@ transforms:
     U: Ũ
 
 strings:
-  space: gaska
-  return: "linnjá\u00ADmolsun"
+  space: espaço
+  return: retorno
 
 targets:
   win:
@@ -704,9 +704,9 @@ targets:
   chrome:
     locale: "en"
     xkbLayout: "en"
-  ios:
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
-    spellerPath: apu.bhfst
-  android:
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
-    spellerPath: apu.bhfst
+#  ios:
+#    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
+#    spellerPath: apu.bhfst
+#  android:
+#    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
+#    spellerPath: apu.bhfst
