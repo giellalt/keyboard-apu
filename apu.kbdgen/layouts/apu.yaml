@@ -83,27 +83,27 @@ modes:
   mac:
     default: |
       ' 1 2 3 4 5 6 7 8 9 0 + ´
-        á š e r t y u i o p å ŋ
+        q w e r t y u i o p å ŋ
         a s d f g h j k l ø æ đ
-      ž z č c v b n m , . -
+      ž z x c v b n m , . -
     shift: |
       § ! " # $ % & / ( ) = ? `
-        Á Š E R T Y U I O P Å Ŋ
+        Q W E R T Y U I O P Å Ŋ
         A S D F G H J K L Ø Æ Đ
-      Ž Z Č C V B N M ; : _
+      Ž Z X C V B N M ; : _
     caps: |
       ' 1 2 3 4 5 6 7 8 9 0 + ´
-        Á Š E R T Y U I O P Å Ŋ
+        Q W E R T Y U I O P Å Ŋ
         A S D F G H J K L Ø Æ Đ
-      Ž Z Č C V B N M , . -
+      Ž Z X C V B N M , . -
     alt: |
       ' © ™ £ € ˆ § | [ ] ˝ ± \u{301}
-        q w é ˇ ŧ þ ˀ ï œ ʼ ˚ ¨
-        â ß ð ƒ ǧ ǥ ˘ ǩ - ö ä @
+        q w ẽ ˇ ŧ ỹ ũ ĩ õ ʼ ˚ ¨
+        ã ß ð ƒ ǧ ǥ ˘ ǩ - ö ä @
       < ÷ x ˙ ‹ › ‘ ’ ‚ … –
     alt+shift: |
       § ¡       ® ¥       ¢       \u{302} ¶       \       {       }       \u{30B} ¿       \u{300}
-        Q       W É       \u{30C} Ŧ       Þ       \u{309} \u{31B} Œ       \u{307} \u{30A} \u{308}
+        Q       W Ẽ       \u{30C} Ŧ       Ỹ       Ũ Ĩ Õ       \u{307} \u{30A} \u{308}
         \u{304} № Ð       ʔ       \u{323} \u{328} \u{306} \u{303} \u{335} Ö       Ä       *
       > ⁄       X \u{327} «       »       “       ”       „       ·       —
     caps+alt: |
@@ -139,14 +139,14 @@ modes:
   win:
     default: |
       | 1 2 3 4 5 6 7 8 9 0 + \
-      á š e r t y u i o p å ŋ
+      q w e r t y u i o p å ŋ
       a s d f g h j k l ø æ đ
-      ž z č c v b n m , . -
+      ž z x c v b n m , . -
     shift: |
       § ! " # ¤ % & / ( ) = ? `
-      Á Š E R T Y U I O P Å Ŋ
+      Q W E R T Y U I O P Å Ŋ
       A S D F G H J K L Ø Æ Đ
-      Ž Z Č C V B N M ; : _
+      Ž Z X C V B N M ; : _
     caps: |
       | 1 2 3 4 5 6 7 8 9 0 + \
       Á Š E R T Y U I O P Å Ŋ
@@ -154,18 +154,18 @@ modes:
       Ž Z Č C V B N M , . -
     caps+shift: |
       § ! " # ¤ % & / ( ) = ? `
-      á š e r t y u i o p å ŋ
+      q w e r t y u i o p å ŋ
       a s d f g h j k l ø æ đ
       ž z č c v b n m ; : _
     alt: |
       \u{0} \u{0} @ £ $ € \u{0} { [ ] } \u{0} ´
-      q w € \u{0} ŧ \u{0} \u{0} ï õ \u{0} ¨ ~
-      â \u{0} \u{0} \u{0} ǧ ǥ \u{0} ǩ \u{0} ö ä '
+      q w ẽ \u{0} ŧ ỹ ũ ĩ õ \u{0} ¨ ~
+      ã \u{0} \u{0} \u{0} ǧ ǥ \u{0} ǩ \u{0} ö ä '
       ǯ ʒ x \u{0} \u{0} \u{0} \u{0} µ < > \u{0}
     alt+shift: |
       \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-      Q W \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} ^ ˇ
-      Â \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
+      Q W Ẽ \u{0} Ŧ Ỹ Ũ Ĩ Õ \u{0} ^ ˇ
+      Ã \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
       Ǯ Ʒ X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
   chrome:
     default: |
