@@ -255,7 +255,7 @@ deadKeys:
     default: [´]
     shift: ['`']
     caps: [´]
-    alt: [¨, ˆ, ˇ, ˘, ˙, ˚]
+    alt: [¨, ˆ, ˇ, ˘, ˙, ˚, ˀ, ˆ, ˇ, ˍ, №, ʔ, ʼ]
     alt+shift: [№]
     caps+alt: [¸, ˆ, ˇ, ˘, ˙, ˚]
     cmd+alt: [¸, ˙]
