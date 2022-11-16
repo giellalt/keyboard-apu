@@ -616,9 +616,9 @@ targets:
   chrome:
     locale: "en"
     xkbLayout: "en"
-#  ios:
-#    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
-#    spellerPath: apu.bhfst
-#  android:
-#    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
-#    spellerPath: apu.bhfst
+  ios:
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
+    spellerPath: apu.bhfst
+  android:
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
+    spellerPath: apu.bhfst
