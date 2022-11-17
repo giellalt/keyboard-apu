@@ -169,7 +169,7 @@ macOS:
 
 windows:
   config:
-    locale: apu-Latn-US
+    locale: apu-Latn-BR
   primary:
     layers:
       default: |
