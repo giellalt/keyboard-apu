@@ -29,7 +29,7 @@ android:
         \s{shift} Z X C V B N M Õ ʼ \s{backspace}
 
 iOS:
-  config:
+#  config:
 #    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-apu?channel=nightly&platform=mobile
 #    spellerPath: apu.bhfst
   primary:
