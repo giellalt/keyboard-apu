@@ -593,6 +593,8 @@ transforms:
     ' ': '~'
     a: ã
     A: Ã
+    e: ẽ
+    E: Ẽ
     i: ĩ
     I: Ĩ
     'n': ñ
@@ -601,6 +603,8 @@ transforms:
     O: Õ
     u: ũ
     U: Ũ
+    y: ỹ
+    Y: Ỹ
 
 longpress:
   A: Ä Á À Â Ã Ā Ạ Å Æ
