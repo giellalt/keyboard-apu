@@ -1,6 +1,7 @@
 displayNames:
   apu: Apurinã
   en: Apurinã
+  pt: Apurinã
 
 android:
   config:
@@ -54,11 +55,11 @@ iOS:
   iPad-9in:
     layers:
       default: |
-        \s{"`":0.75}  á š e r t y u i o p ŋ \s{backspace:1.25}
+        \s{"`":0.75}  q w e r t y u i o p ŋ \s{backspace:1.25}
         \s{shift}     a s d f g h j k l đ ŧ \s{shift}
         \s{spacer:0.5}  ž z č c v b n m , . \s{spacer:0.5} \s{return:2}
       shift: |
-        \s{"@":0.75}  Á Š E R T Y U I O P Ŋ \s{backspace:1.25}
+        \s{"@":0.75}  Q W E R T Y U I O P Ŋ \s{backspace:1.25}
         \s{shift}     A S D F G H J K L Đ Ŧ \s{shift}
         \s{spacer:0.5}  Ž Z Č C V B N M ! ? \s{spacer:0.5} \s{return:2}
       alt: |
@@ -113,7 +114,7 @@ macOS:
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           q w e r t y u i o p å ŋ
           a s d f g h j k l ø æ đ
-        ž z x c v b n m , . -
+        ~ z x c v b n m , . -
       shift: |
         § ! " # $ % & / ( ) = ? `
           Q W E R T Y U I O P Å Ŋ
@@ -170,7 +171,7 @@ macOS:
     cmd+alt: \u{A0}
     alt+caps: \u{A0}
   deadKeys:
-    default: ['´']
+    default: ['~', '´']
     shift: ['`']
     caps: ['´']
     alt: ['¨', 'ˆ', 'ˇ', '˘', '˙', '˚', 'ˀ', 'ˆ', 'ˇ', 'ˍ', '№', 'ʔ']
@@ -187,7 +188,7 @@ windows:
         | 1 2 3 4 5 6 7 8 9 0 + \
         q w e r t y u i o p å ŋ
         a s d f g h j k l ø æ đ
-        ž z x c v b n m , . -
+        ~ z x c v b n m , . -
       shift: |
         § ! " # ¤ % & / ( ) = ? `
         Q W E R T Y U I O P Å Ŋ
@@ -214,6 +215,7 @@ windows:
         Ã \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
         Ǯ Ʒ X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
   deadKeys:
+    default: ['~']
     shift: ['`']
     caps+shift: ['`']
     alt: ['~', '¨', '´']
@@ -242,7 +244,7 @@ chromeOS:
         Ž Z X C V B N M ; : _
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
-        Á Š E R T Y U I O P Å Ŋ
+        Q W E R T Y U I O P Å Ŋ
         A S D F G H J K L Ø Æ Đ
         Ž Z Č C V B N M , . -
       caps+shift: |
