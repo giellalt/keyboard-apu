@@ -3,5 +3,5 @@ provisioningProfileId: Test
 packageId: no.uit.giella.keyboards.apu
 bundleName: Apurinã Keyboards
 icon: images/apu-keyboard-menu-icon.png
-version: 0.1.1
+version: 0.1.2
 build: 1
