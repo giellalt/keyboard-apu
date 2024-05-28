@@ -38,13 +38,13 @@ iOS:
   primary:
     layers:
       default: |
-        q w e ẽ r t y ỹ u i o p
-        a ã s d f g h j ũ ĩ k l
-        \s{shift:1.25} \s{spacer:0.25} z x c v b n m õ ʼ \s{spacer:0.25} \s{backspace:1.25}
+        q w e r t y u i o p
+        a s d f g h j k l ʼ
+        \s{shift:1.25} \s{spacer:0.25} z x c v b n ñ m ʉ ɨ \s{spacer:0.25} \s{backspace:1.25}
       shift: |
-        Q W E Ẽ R T Y Ỹ U I O P
-        A Ã S D F G H J Ũ Ĩ K L
-        \s{shift:1.25} \s{spacer:0.25} Z X C V B N M Õ ʼ \s{spacer:0.25} \s{backspace:1.25}
+        Q W E R T Y U I O P
+        A S D F G H J K L '
+        \s{shift:1.25} \s{spacer:0.25} Z X C V B N Ñ M Ʉ Ɨ \s{spacer:0.25} \s{backspace:1.25}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
         - / : ; ( ) R$ & @ "
