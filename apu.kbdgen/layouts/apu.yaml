@@ -170,17 +170,17 @@ windows:
     layers:
       default: |
         ' 1 2 3 4 5 6 7 8 9 0 - =
-          q w e r t y u i o p ´ [ ]
-          a s d f g h j k l ç ~
+          q w e r t y u i o p ´ [
+          a s d f g h j k l ç ~ ]
         \ z x c v b n m , . ; /
       shift: |
         " ! @ # $ % ¨ & * ( ) _ +
-          Q W E R T Y U I O P ` { }
-          A S D F G H J K L Ç ^
+          Q W E R T Y U I O P ` {
+          A S D F G H J K L Ç ^ }
         | Z X C V B N M < > : ?
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
-        Á Š E R T Y U I O P Å Ŋ
+        Q W E R T Y U I O P Å Ŋ
         A S D F G H J K L Ø Æ Đ
         Ž Z Č C V B N M , . -
       caps+shift: |
@@ -199,8 +199,8 @@ windows:
           Ã \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
         ~ Ʒ X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
   deadKeys:
-    default: ['~']
-    shift: ['`']
+    default: ['~', '´', "'"]
+    shift: ['`', '¨', '^', '"']
     caps+shift: ['`']
     alt: ['~', '¨', '´']
     alt+shift: ['^', 'ˇ']
@@ -302,8 +302,6 @@ transforms:
     'S': 'Ś'
     'u': 'ú'
     'U': 'Ú'
-    'v': 'v́'
-    'V': 'V́'
     'w': 'ẃ'
     'W': 'Ẃ'
     'y': 'ý'
@@ -346,8 +344,6 @@ transforms:
     'S': 'Ś'
     'u': 'ú'
     'U': 'Ú'
-    'v': 'v́'
-    'V': 'V́'
     'w': 'ẃ'
     'W': 'Ẃ'
     'y': 'ý'
