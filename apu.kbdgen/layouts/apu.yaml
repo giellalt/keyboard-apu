@@ -191,12 +191,12 @@ windows:
       alt: |
         ' © ™ 3 £ ¢ ¬ \ | [ ] ± §
           q w ẽ ˇ ŧ ỹ ũ ĩ õ ʼ ˚ ¨
-          ã ß ð ƒ \u{0} \u{0} ˘ \u{0} - ö ä @
+          ã ß ð ƒ \u{0} \u{0} ˘ \u{0} - \u{0} \u{0} @
         ' ÷ x ˙ ‹ › ‘ ’ ; : °
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
           Q W Ẽ \u{0} Ŧ Ỹ Ũ Ĩ Õ \u{0} ^ ˇ
-          Ã \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
+          Ã \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} *
         ~ Ʒ X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
   deadKeys:
     default: ['~', '´', "'"]
@@ -217,19 +217,19 @@ chromeOS:
   primary:
     layers:
       default: |
-        | 1 2 3 4 5 6 7 8 9 0 + \
-        q w e r t y u i o p å ŋ
-        a s d f g h j k l ø æ đ
+        | 1 2 3 4 5 6 7 8 9 0 - =
+        q w e r t y u i o p ´ [
+        a s d f g h j k l ç ~ ]
         ~ z x c v b n m , . -
       shift: |
         § ! " # ¤ % & / ( ) = ? `
-        Q W E R T Y U I O P Å Ŋ
-        A S D F G H J K L Ø Æ Đ
+        Q W E R T Y U I O P ` {
+        A S D F G H J K L Ç ^ }
         ' Z X C V B N M ; : _
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
-        Q W E R T Y U I O P Å Ŋ
-        A S D F G H J K L Ø Æ Đ
+        Q W E R T Y U I O P ` {
+        A S D F G H J K L Ç ^ }
         Ž Z Č C V B N M , . -
       caps+shift: |
         § ! " # ¤ % & / ( ) = ? `
@@ -239,12 +239,12 @@ chromeOS:
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \u{0} ´
         q w ẽ \u{0} ŧ ỹ ũ ĩ õ \u{0} ¨ ~
-        ã \u{0} \u{0} \u{0} ǧ ǥ \u{0} ǩ \u{0} ö ä '
+        ã \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} '
         ǯ ʒ x \u{0} \u{0} \u{0} \u{0} µ < > \u{0}
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
         Q W Ẽ \u{0} Ŧ Ỹ  Ũ Ĩ Õ \u{0} ^ ˇ
-        Ã \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
+        Ã \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} *
         Ǯ Ʒ X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
 
 transforms:
