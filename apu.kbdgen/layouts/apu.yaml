@@ -179,20 +179,20 @@ windows:
           A S D F G H J K L Ç ^ }
         " Z X C V B N M < > : ?
       caps: |
-        | 1 2 3 4 5 6 7 8 9 0 + \
+        ' 1 2 3 4 5 6 7 8 9 0 - =
         Q W E R T Y U I O P ´ [
         A S D F G H J K L Ç ~ ]
-        | Z Č C V B N M , . -
+        ' Z X C V B N M , . ; /
       caps+shift: |
-        § ! " # ¤ % & / ( ) = ? `
+        " ! @ # $ % ¨ & * ( ) - +
         q w e r t y u i o p ` {
         a s d f g h j k l ç ^ }
-        ~ z č c v b n m ; : _
+        " z x c v b n m < > : ?
       alt: |
-        ' © ™ 3 £ ¢ ¬ \ | [ ] ± §
-          q w ẽ ˇ ŧ ỹ ũ ĩ õ ʼ ˚ ¨
+        \u{0} ¹ ² ³ £ ¢ ¬ \ | [ ] ± §
+          / ? ẽ ˇ ŧ ỹ ũ ĩ õ ʼ ˚ ¨
           ã ß ð ƒ \u{0} \u{0} ˘ \u{0} - \u{0} \u{0} @
-        ' ÷ x ˙ ‹ › ‘ ’ ; : °
+        \u{0} \u{0} \u{0} ˙ ‹ › ‘ ’ ; : °
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
           Q W Ẽ \u{0} Ŧ Ỹ Ũ Ĩ Õ \u{0} ^ ˇ
