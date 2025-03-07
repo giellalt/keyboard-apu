@@ -201,7 +201,7 @@ windows:
   deadKeys:
     default: ['~', '´', "'"]
     shift: ['`', '¨', '^', '"']
-    caps+shift: ['`']
+    caps+shift: ['`', '^']
     alt: ['~', '¨', '´']
     alt+shift: ['^', 'ˇ']
   space:
