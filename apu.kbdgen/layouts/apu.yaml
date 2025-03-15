@@ -166,6 +166,7 @@ macOS:
 windows:
   config:
     locale: apu-Latn-BR
+    languageName: Apurinã
   primary:
     layers:
       default: |
